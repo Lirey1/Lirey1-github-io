@@ -1,1 +1,25 @@
 # Lirey1-github-io
+<!DOCTYPE html>
+<html>
+<head>
+<title> Сайт-визитка </title>
+</head>
+<body style = "border:10px solid blue; padding-bottom:7px ">
+<header>
+     <h1 style = "text-align: center" > 🏡 Дома для людей 🏠 </h1> 
+</header>
+<main style = "text-align: center"> <img src = "https://www.evastroy.ru/images/projects/1549644398-1345194624.jpg" height = "200px" width="250px" />
+    
+    <img src = "https://www.skmera.ru/upload/uf/283/28362157d1e2990dc40db90380cbcac3.jpg" height = "200px" width="300px" />
+</main>
+<footer> <p style = "text-align: center"> Дома на ваш вкус, белые ИЛИ чёрные </p>
+<p style = "text-align: center"> Построем дом быстро и дёшево </p>
+<p style = "text-align: center"> Мы можем сдеать вам дома с мебелю с доп платой или без, с подвалом или без, это уже решать ВАМ, мы, МЫ просто делаем дома и всё нечего больше и за доп плату мы сделаем вам рядом: гараж, сарай или даже подвал, бункер всё на ваш вкус </p>
+<table style = "border: 5px solid black; border-collapse: collapse; margin: 0 auto">
+        <tr>
+            <td style = "border: 7px solid green"> <p style = "font-size:17px"><span style = "font-size:30px"> 2,5млн </span><br>  за дом которые мы построем для вас</p> </td>
+        </tr>
+</table>
+</footer>
+</body>
+</html>
